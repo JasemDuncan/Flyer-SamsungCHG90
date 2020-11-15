@@ -1,0 +1,246 @@
+Monitor Gamer QLED curvo 49 pulgadas 4200 soles 
+
+Link oficial:
+
+https://www.samsung.com/es/monitors/gaming/qled-gaming-monitor-49-inch-lc49hg90dmuxen/
+
+Especificaciones
+
+    Curvatura de Pantalla
+    1800R
+    3840 x 1080
+
+
+Detalle de especificaciones
+Pantalla
+
+    Pantalla (pulgadas)
+    48.9
+    Pantalla (cm)
+    124.2
+    Clase de pantalla
+    49
+    Plana/Curva
+    Curvo
+    Active Display Size (HxV) (mm)
+    1195.8 x 336.3 mm
+    Curvatura de Pantalla
+    1800R
+    Relación de aspecto
+    32:9
+    Panel
+    VA
+    Brillo (Normal)
+    350cd/m2
+    Peak Brightness (Typical)
+    600cd/m2 cd/㎡
+    Brillo (Min)
+    250cd/m2
+    Ratio de Luminosidad (%)
+    N/A
+    Relación de contraste estático
+    3000:1(Tip),2400:1(Min)
+    Ratio de Contraste Dinámico
+    Mega
+    HDR(High Dynamic Range)
+    Sí
+    Resolución
+    3840 X 1080
+    Tiempo de Respuesta
+    1(MPRT)
+    Ángulo de Visión (H/V)
+    178°(H)/178°(V)
+    Color
+    1.07B
+    Color Gamut (NTSC 1976)
+    Tip 88%, Min 84%
+    sRGB Coverage
+    Tip 125%, Min 120%
+    Adobe RGB Coverage
+    Tip 92%, Min 88%
+    Refresco
+    144Hz 
+
+Características generales
+
+    Samsung MagicAngle
+    N/A
+    Samsung MagicBright
+    N/A
+    Samsung MagicUpscale
+    N/A
+    Samsung MagicRotation Auto
+    N/A
+    Modo Eco Saving Plus
+    Sí
+    Eco Motion Sensor
+    N/A
+    Eco Light Sensor
+    N/A
+    0.00 W Off mode
+    N/A
+    Modo Eye Saver
+    Sí
+    Flicker Free
+    Sí
+    PIP
+    N/A
+    Picture-By-Picture
+    Sí
+    Active Crystal Color
+    N/A
+    Quantum Dot Color
+    Sí
+    Modo gaming
+    N/A
+    Dual-Color Mode
+    N/A
+    Tamaño de imagen
+    N/A
+    USB Super Charging
+    Sí
+    Daisy Chain
+    N/A
+    Easy Setting Box
+    Sí
+    Certificado Windows
+    Windows 10
+    FreeSync
+    Sí
+    FreeSync 2
+    N/A
+    Smart Eco Saving
+    N/A
+    Off Timer Plus
+    N/A
+    Smartphone Wireless Charging
+    N/A
+    Game Color Mode
+    Sí
+    Screen Size Optimizer
+    Sí
+    Motion Blur Reduction Mode
+    N/A
+    Black Equalizer
+    Sí
+    Low Input Lag Mode
+    Sí
+    Virtual AIM Point
+    N/A
+    Refresh Rate Optimizor
+    Sí
+    Custom Key
+    Sí
+    Super Arena Gaming UX
+    Sí
+    Customized Game Color S/W (CGCS)
+    N/A
+    Dual-Menu Control Solution
+    N/A
+    Sound Interactive LED Lighting
+    N/A 
+
+Interfaz
+
+    Wireless Display
+    No
+    VGA
+    No
+    DVI
+    No
+    Dual Link DVI
+    No
+    Display Port
+    1 EA
+    Mini-Display Port
+    1 EA
+    HDMI
+    2 EA
+    Entrada Audio
+    Sí
+    Auriculares
+    Sí
+    USB Hub
+    1
+    USB-C
+    No 
+
+Audio
+
+    Altavoces
+    No
+    USB Sound Bar (Ready)
+    No 
+
+Operación
+
+    Temperatura
+    10~40 ℃
+    Humedad
+    10~80 % 
+
+Calibration
+
+    Factory Tunning
+    Sí
+    Built in Calibration Engine
+    N/A
+    LUT(Look-up Table) Bit Depth
+    N/A
+    Gray Balance
+    N/A
+    Uniformity Correction
+    N/A
+    Color Mode
+    Personalizado/Brillo Alto/FPS/RTS/RPG/AOS/sRGB/Modo Cine
+    CMS(Color Management Software)
+    N/A
+    Factory Calibration Report
+    N/A 
+
+Diseño
+
+    Color
+    Negro
+    Tipo de peana
+    HAS
+    Peana Ajustable en Altura
+    120.0 ± 5.0 mm
+    Inclinación
+    -2.0° (±2.0°) ~ +15.0° (±2.0°)
+    Giro
+    -15.0° (±2.0°) ~ +15.0° (±2.0°)
+    Pivotaje
+    N/A
+    Montaje Pared
+    100 x 100 
+
+Funciones ECO
+
+    Clase de Eficiencia Energética
+    B
+    Recycled Plastic
+    N/A 
+
+Intensidad Máxima
+
+    Fuente de Alimentación
+    AC 100~240V
+    Consumo de Energía (Máx.)
+    113 W
+    Consumo típico
+    71 W
+    Consumo (DPMS)
+    <0.5 W
+    Consumo (Apagado)
+    <0.3 W
+    Consumo anual
+    104 kWh/year
+    Tipo
+    Interna 
+
+Disclaimer
+
+    Disclaimer
+    El tiempo de respuesta de 1ms es basado en test internos. El tiempo de respuesta puede variar dependiendo de las condiciones del test. 
+
